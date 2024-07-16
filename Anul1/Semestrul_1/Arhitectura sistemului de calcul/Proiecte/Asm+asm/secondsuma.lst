@@ -1,0 +1,15 @@
+     1                                  ;cod pentru sumafunctie.asm
+     2                                  bits 32
+     3                                  segment code use32 public code
+     4                                  global calculsuma ; eticheta
+     5                                  calculsuma:
+     6                                  
+     7 00000000 8B442404                 mov eax, [esp + 4] ;accesam primul param de pe stiva
+     8                                  
+     9 00000004 8B5C2408                 mov ebx, [esp + 8] ;accesam al doilea param de pe stiva
+    10                                  
+    11 00000008 01C3                     add ebx, eax ; calcul
+    12                                  
+    13 0000000A C20800                  ret 4*2 ; in acest caz 8 reprezinta
+    14                                   ;numarul de octeti ce trebuie eliberati de pe stiva
+    15                                   ;(parametrii pasati procedurii - adica cei 2 pusi pe stiva*4)
