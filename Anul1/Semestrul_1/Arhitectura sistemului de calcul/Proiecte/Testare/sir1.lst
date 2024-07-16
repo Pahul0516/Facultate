@@ -1,0 +1,84 @@
+     1                                  bits 32
+     2                                  global start
+     3                                  import printf msvcrt.dll
+     4                                  import exit msvcrt.dll
+     5                                  import scanf msvcrt.dll
+     6                                  extern printf, exit, scanf
+     7                                  extern inv ; declarare eticheta de calclul din modulul secundar
+     8                                  
+     9                                  segment data use32
+    10 00000000 255B5E2E5D00                format_citire db "%[^.]", 0
+    11 00000006 257300                      format_afisare db "%s", 0
+    12 00000009 <res 00000064>              s resb 100
+    13                                      max_len equ 100
+    14 0000006D 00                          len db 0
+    15 0000006E 566120726F67207361-         mesaj dd "Va rog sa introduceti o propozitie: ", 0
+    15 00000077 20696E74726F647563-
+    15 00000080 657469206F2070726F-
+    15 00000089 706F7A697469653A20-
+    15 00000092 00000000           
+    16 00000096 0A0000000D000000            rand_nou dd "",10,13
+    17 0000009E <res 00000190>              aux resd 100 
+    18 0000022E <res 00000064>              cuv resb 100 
+    19 00000292 02000000                    al_aux dd 2
+    20                                  
+    21                                      
+    22                                  segment code use32 public code
+    23                                  
+    24                                  start:
+    25                                              
+    26                                          ;facem toti registrii 0
+    27 00000000 B800000000                      mov eax, 0;cd C:\Users\Paul0516\Desktop\Asc_editor\ASM_tools\Testare
+    28 00000005 BB00000000                      mov ebx, 0;alink sir1.obj sir2.obj -oPE -subsys console -entry start
+    29 0000000A B900000000                      mov ecx, 0;nasm -f obj sir1.asm
+    30 0000000F BA00000000                      mov edx, 0;nasm -f obj sir2.asm
+    31                                          
+    32 00000014 68[6E000000]                    push mesaj
+    33 00000019 FF15[00000000]                  call [printf] ; afisare mesaj
+    34 0000001F 83C404                          add esp, 4*1
+    35                                          
+    36 00000022 68[09000000]                    push s
+    37 00000027 68[00000000]                    push format_citire
+    38 0000002C FF15[00000000]                  call [scanf]
+    39 00000032 83C408                          add esp, 4 * 2 ; citire sir
+    40 00000035 BE[09000000]                    mov esi,s
+    41                                          repeta1:
+    42 0000003A AC                                  lodsb
+    43 0000003B 3C00                                cmp al, 0
+    44 0000003D 7454                                je sari
+    45 0000003F A2[92020000]                        mov [al_aux],al
+    46 00000044 3C20                                cmp al,32
+    47 00000046 7402                                je daca
+    48 00000048 753B                                jne altfel
+    49                                              daca:
+    50                                              
+    51 0000004A BA[2E020000]                            mov edx, cuv
+    52 0000004F 52                                      push edx
+    53 00000050 8935[9E000000]                          mov dword [aux], esi
+    54 00000056 E8(00000000)                            call inv
+    55                                                  
+    56 0000005B 53                                      push ebx
+    57 0000005C 68[06000000]                            push format_afisare
+    58 00000061 FF15[00000000]                          call [printf]
+    59 00000067 83C408                                  add esp,4*2
+    60                                                  
+    61 0000006A 68[96000000]                            push rand_nou
+    62 0000006F FF15[00000000]                          call [printf]
+    63 00000075 83C404                                  add esp, 4*1
+    64                                                  
+    65 00000078 8B35[9E000000]                          mov esi, [aux]
+    66 0000007E BB00000000                              mov ebx,0
+    67 00000083 EB07                                    jmp iesire
+    68                                              altfel:
+    69 00000085 8883[2E020000]                           mov [cuv+ebx],al
+    70 0000008B 43                                       inc ebx
+    71                                              
+    72                                              iesire:
+    73 0000008C A0[92020000]                        mov al,[al_aux]
+    74 00000091 E2A7                            loop repeta1
+    75                                          sari:
+    76                                          
+    77                                  
+    78                                          ; exit(0)
+    79 00000093 6A00                            push dword 0      ; push the parameter for exit onto the stack
+    80 00000095 FF15[00000000]                  call [exit]       ; call exit to terminate the program

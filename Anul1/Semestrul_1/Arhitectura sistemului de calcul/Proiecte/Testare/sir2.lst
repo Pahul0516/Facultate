@@ -1,0 +1,31 @@
+     1                                  ;cod pentru sumafunctie.asm
+     2                                  bits 32
+     3                                  segment code use32 public code
+     4 00000000 <res 00000064>            cuvant resb 100
+     5                                  global inv ; eticheta
+     6                                  inv:
+     7                                  
+     8 00000064 BA00000000               mov edx,0
+     9 00000069 4B                       dec ebx
+    10 0000006A 8B742404                 mov esi, [esp + 4] ;accesam primul param de pe stiva
+    11 0000006E 8D341E                   lea esi, [esi + ebx]
+    12 00000071 B964000000               mov ecx,100
+    13                                   
+    14                                   curata:
+    15 00000076 C682[00000000]00            mov [cuvant+edx],byte 0
+    16 0000007D 42                          inc edx
+    17 0000007E E2F6                     loop curata
+    18                                   
+    19 00000080 BA00000000               mov edx,0
+    20 00000085 FD                       std
+    21                                   repeta:
+    22 00000086 AC                          lodsb 
+    23 00000087 3C00                        cmp al,0
+    24 00000089 7409                        je iesi
+    25 0000008B 8882[00000000]              mov [cuvant+edx],al
+    26 00000091 42                          inc edx
+    27 00000092 EBF2                     jmp repeta
+    28                                   iesi:
+    29 00000094 BB[00000000]             mov ebx, cuvant
+    30 00000099 FC                       cld
+    31 0000009A C20400                   ret 4*1
