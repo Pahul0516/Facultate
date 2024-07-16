@@ -1,0 +1,5 @@
+1 tractor1 2000 arat 12.12.2024
+2 tractor2 5000 plantat 12.12.2024
+3 tractor3 7000 plantat 12.12.2023
+4 macara 5000 constructii 12.12.2023
+1 dsfg 12 sdf 2.12.1
