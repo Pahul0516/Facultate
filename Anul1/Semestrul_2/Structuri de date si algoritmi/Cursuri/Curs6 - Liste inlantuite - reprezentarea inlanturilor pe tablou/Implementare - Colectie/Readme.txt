@@ -1,0 +1,1 @@
+Implementare - Colectie - Reprezentare simplu inlantuita cu inlantuiri pe tablou static
