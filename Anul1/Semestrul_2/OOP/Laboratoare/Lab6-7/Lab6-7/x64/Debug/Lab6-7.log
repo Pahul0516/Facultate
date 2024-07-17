@@ -1,0 +1,25 @@
+﻿  actiune_undo.cpp
+  controller.cpp
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\controller.cpp(32,57): warning C4100: 'contr': unreferenced formal parameter
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\controller.cpp(37,57): warning C4100: 'contr': unreferenced formal parameter
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\controller.cpp(106,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\controller.cpp(107,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\controller.cpp(106,6): warning C4189: 'min': local variable is initialized but not referenced
+  eveniment.cpp
+  main.cpp
+  repository.cpp
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\repository.cpp(49,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  teste.cpp
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\teste.cpp(18,31): warning C4101: 'e': unreferenced local variable
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\teste.cpp(26,31): warning C4101: 'e': unreferenced local variable
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\teste.cpp(34,31): warning C4101: 'e': unreferenced local variable
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\teste.cpp(42,31): warning C4101: 'e': unreferenced local variable
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\teste.cpp(50,31): warning C4101: 'e': unreferenced local variable
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\teste.cpp(59,31): warning C4101: 'e': unreferenced local variable
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\vector_dinamic.h(176,11): warning C4456: declaration of 'i' hides previous local declaration
+  ui.cpp
+  validator.cpp
+  Generating Code...
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\vector_dinamic.h(176,1): warning C4701: potentially uninitialized local variable 'indice' used
+C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\repository.cpp(45,1): warning C4715: 'repository::repo_get_obiet_id': not all control paths return a value
+  Lab6-7.vcxproj -> C:\Users\Paul0516\source\repos\Lab6-7\x64\Debug\Lab6-7.exe

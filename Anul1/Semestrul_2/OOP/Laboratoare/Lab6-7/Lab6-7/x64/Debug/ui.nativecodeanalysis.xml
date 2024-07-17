@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Paul0516\source\repos\Lab6-7\Lab6-7\</FILEPATH>
+      <FILENAME>vector_dinamic.h</FILENAME>
+      <LINE>137</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function should not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>vectorul_meu&lt;Eveniment&gt;::=</FUNCTION>
+    <DECORATED>??4?$vectorul_meu@VEveniment@@@@QEAAAEAV0@$$QEAV0@@Z</DECORATED>
+    <FUNCLINE>137</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

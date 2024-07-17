@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\actiune_undo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\actiune_undo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\actiune_undo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\actiune_undo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\eveniment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\eveniment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\vector_dinamic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\vector_dinamic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\eveniment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AC8350-669A-4EB2-93DC-2E4A6DDDDDE7}|Lab6-7\\Lab6-7.vcxproj|solutionrelative:Lab6-7\\eveniment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 281,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\main.cpp",
+              "RelativeDocumentMoniker": "Lab6-7\\main.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\main.cpp",
+              "RelativeToolTip": "Lab6-7\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T17:18:13.435Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ui.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\ui.h",
+              "RelativeDocumentMoniker": "Lab6-7\\ui.h",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\ui.h",
+              "RelativeToolTip": "Lab6-7\\ui.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T11:02:21.847Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ui.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\ui.cpp",
+              "RelativeDocumentMoniker": "Lab6-7\\ui.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\ui.cpp",
+              "RelativeToolTip": "Lab6-7\\ui.cpp",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T10:55:59.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "controller.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\controller.h",
+              "RelativeDocumentMoniker": "Lab6-7\\controller.h",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\controller.h",
+              "RelativeToolTip": "Lab6-7\\controller.h",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T11:02:31.977Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "controller.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\controller.cpp",
+              "RelativeDocumentMoniker": "Lab6-7\\controller.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\controller.cpp",
+              "RelativeToolTip": "Lab6-7\\controller.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T11:02:35.487Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "repository.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\repository.h",
+              "RelativeDocumentMoniker": "Lab6-7\\repository.h",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\repository.h",
+              "RelativeToolTip": "Lab6-7\\repository.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T11:02:38.258Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "repository.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\repository.cpp",
+              "RelativeDocumentMoniker": "Lab6-7\\repository.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\repository.cpp",
+              "RelativeToolTip": "Lab6-7\\repository.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T11:02:40.687Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vector_dinamic.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\vector_dinamic.h",
+              "RelativeDocumentMoniker": "Lab6-7\\vector_dinamic.h",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\vector_dinamic.h",
+              "RelativeToolTip": "Lab6-7\\vector_dinamic.h",
+              "ViewState": "AQIAABoBAAAAAAAAAAAAABoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T21:18:57.832Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "eveniment.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\eveniment.cpp",
+              "RelativeDocumentMoniker": "Lab6-7\\eveniment.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\eveniment.cpp",
+              "RelativeToolTip": "Lab6-7\\eveniment.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T11:02:48.838Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eveniment.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\eveniment.h",
+              "RelativeDocumentMoniker": "Lab6-7\\eveniment.h",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\eveniment.h",
+              "RelativeToolTip": "Lab6-7\\eveniment.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T11:02:44.427Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "actiune_undo.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\actiune_undo.h",
+              "RelativeDocumentMoniker": "Lab6-7\\actiune_undo.h",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\actiune_undo.h",
+              "RelativeToolTip": "Lab6-7\\actiune_undo.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T20:12:12.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "actiune_undo.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\actiune_undo.cpp",
+              "RelativeDocumentMoniker": "Lab6-7\\actiune_undo.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab6-7\\Lab6-7\\actiune_undo.cpp",
+              "RelativeToolTip": "Lab6-7\\actiune_undo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T20:11:57.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

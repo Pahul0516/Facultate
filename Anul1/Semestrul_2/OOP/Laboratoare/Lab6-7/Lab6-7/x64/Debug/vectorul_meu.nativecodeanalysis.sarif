@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33522.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/vectorul_meu.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "6109a643fe937b6748131599aa20f937153c0f3c580d36eeab2a9f968ad5ae89"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/vectorul_meu.h"
+          },
+          "hashes": {
+            "sha-256": "756562bc9267550bc9c027a6f4a89880d3c610aa1e13a69938a87f55c2d3ba00"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/eveniment.h"
+          },
+          "hashes": {
+            "sha-256": "7f46971e5afe92dcfe2f8fd9b9c7043742b63e8fb9d278cb9ba01d9176bf5bac"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/iterator_vector.h"
+          },
+          "hashes": {
+            "sha-256": "ba7e1de09d13f03f596e42745d7bb31524cf0c0815f5b2b8240926dd5b7cf3eb"
+          }
+        }
+      ]
+    }
+  ]
+}

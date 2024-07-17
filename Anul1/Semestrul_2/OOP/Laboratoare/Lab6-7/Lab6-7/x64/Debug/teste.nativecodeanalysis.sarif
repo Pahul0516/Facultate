@@ -1,0 +1,407 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6385",
+          "message": {
+            "text": "Reading invalid data from 'elems'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                },
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 3,
+                  "endLine": 80,
+                  "endColumn": 24
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "vectorul_meu<Eveniment>::{ctor}",
+                  "decoratedName": "??0?$vectorul_meu@VEveniment@@@@QEAA@AEBV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 78,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 79,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 79,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "Enter this loop, (assume 'i<ot.lg')"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 80,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 79,
+                            "startColumn": 30
+                          }
+                        },
+                        "message": {
+                          "text": "'i' may equal 1"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 79,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "Continue this loop, (assume 'i<ot.lg')"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 80,
+                            "startColumn": 12
+                          }
+                        },
+                        "message": {
+                          "text": "'i' is an Output from 'Eveniment::=' (declared at c:\\users\\paul0516\\source\\repos\\lab6-7\\lab6-7\\eveniment.h:37)"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 80,
+                            "startColumn": 12
+                          }
+                        },
+                        "message": {
+                          "text": "Invalid read from 'elems[1]', (readable range is 0 to 0)"
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6001",
+          "message": {
+            "text": "Using uninitialized memory 'indice'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                },
+                "region": {
+                  "startLine": 176,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "vectorul_meu<Eveniment>::erase",
+                  "decoratedName": "?erase@?$vectorul_meu@VEveniment@@@@QEAAXV?$iterator_vector@VEveniment@@@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 164,
+                            "startColumn": 23
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 165,
+                            "startColumn": 6
+                          }
+                        },
+                        "message": {
+                          "text": "'indice' is not initialized"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 165,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 166,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 166,
+                            "startColumn": 14
+                          }
+                        },
+                        "message": {
+                          "text": "Skip this loop, (assume 'it!=(*this->end())' is false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 176,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                          },
+                          "region": {
+                            "startLine": 176,
+                            "startColumn": 15
+                          }
+                        },
+                        "message": {
+                          "text": "'indice' is used, but may not have been initialized"
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33522.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "6102288862264895ce3f6133b01cc2cbc723525be9ab6c783b336106953a2234"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/teste.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "d76e9dfda9c15dcbc58a51d6ccc83d00a7ea8fb81e3fc7ddbfcad80c8c2df1b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/eveniment.h"
+          },
+          "hashes": {
+            "sha-256": "ac726f95d8af39633dae58fc5653c908659976284015e375c6e5aed62d26a312"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/repository.h"
+          },
+          "hashes": {
+            "sha-256": "c16e0475c9a13a5f7894256f732bfda9384d0815db843bc04c0809856d6f9749"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/controller.h"
+          },
+          "hashes": {
+            "sha-256": "97860c5a6a15f7ecb27782fc8f22e98c7c49b7141d57fca23a771acd974e0305"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/hai_sa_fie.h"
+          },
+          "hashes": {
+            "sha-256": "7e9e1c0cf55732e91db3c98b7b044f32551ba0716078e093813d1c6e0ce06646"
+          }
+        }
+      ]
+    }
+  ]
+}

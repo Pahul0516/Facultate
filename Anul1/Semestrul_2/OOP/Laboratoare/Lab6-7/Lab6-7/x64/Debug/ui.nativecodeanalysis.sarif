@@ -1,0 +1,113 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26439",
+          "message": {
+            "text": "This kind of function should not throw. Declare it 'noexcept' (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+                },
+                "region": {
+                  "startLine": 137,
+                  "startColumn": 39
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "vectorul_meu<Eveniment>::=",
+                  "decoratedName": "??4?$vectorul_meu@VEveniment@@@@QEAAAEAV0@$$QEAV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33522.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/Paul0516/source/repos/Lab6-7/Lab6-7/vector_dinamic.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "6102288862264895ce3f6133b01cc2cbc723525be9ab6c783b336106953a2234"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/ui.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "8c58054790c6a08b5397a56430e25b5af1c3a7b641079bbbe6ed19f49ce7666d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/ui.h"
+          },
+          "hashes": {
+            "sha-256": "df9d8e2ea8ea852cc7b6e7dcfdf0699456c43c417dfb2fa216df637302e7f0da"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/controller.h"
+          },
+          "hashes": {
+            "sha-256": "97860c5a6a15f7ecb27782fc8f22e98c7c49b7141d57fca23a771acd974e0305"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/repository.h"
+          },
+          "hashes": {
+            "sha-256": "c16e0475c9a13a5f7894256f732bfda9384d0815db843bc04c0809856d6f9749"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/eveniment.h"
+          },
+          "hashes": {
+            "sha-256": "ac726f95d8af39633dae58fc5653c908659976284015e375c6e5aed62d26a312"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/paul0516/source/repos/lab6-7/lab6-7/validator.h"
+          },
+          "hashes": {
+            "sha-256": "949ef909ba0188168f793c7b3b21b803c3cbce42bbe782d5e41faf4938c68c7a"
+          }
+        }
+      ]
+    }
+  ]
+}
