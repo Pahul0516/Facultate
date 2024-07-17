@@ -1,0 +1,73 @@
+#include <iostream> 
+#include <fstream>
+#include <algorithm>
+#include <queue>
+#include <cstring>
+#include <vector>
+#include <climits>
+#include <bitset>
+#include <cmath>
+#include <climits>
+#include <stack>
+#include <stdlib.h>
+
+using namespace std;
+
+ifstream f("prim.in");
+ofstream g("prim.out");
+
+struct muchie
+{
+	int n1, n2, cost;
+}x[100001];
+
+int viz[100001], t[100001];
+
+bool criteriu(muchie a, muchie b)
+{
+	return a.cost < b.cost;
+}
+
+int main()
+{
+	int n, m, s = 0;
+	f >> n >> m;
+	for (int i = 1; i <= m; i++)
+	{
+		f >> x[i].n1 >> x[i].n2 >> x[i].cost;
+	}
+	sort(x + 1, x + m + 1, criteriu);
+	for (int i = 1; i <= m; i++)
+	{
+		if (x[i].n1 == 1 || x[i].n2 == 1)
+		{
+			viz[x[i].n1] = viz[x[i].n2] = 1;
+			s = s + x[i].cost;
+			t[x[i].n2] = x[i].n1;
+			break;
+		}
+	}
+	for (int k = 1; k <= n - 2; k++)
+	{
+		int i = 1;
+		while (viz[x[i].n1] == viz[x[i].n2])
+			i++;
+		s = s + x[i].cost;
+		if (viz[x[i].n1] == 0)
+		{
+			viz[x[i].n1] = 1;
+			t[x[i].n1] = x[i].n2;
+		}
+		if (viz[x[i].n2] == 0)
+		{
+			viz[x[i].n2] = 1;
+			t[x[i].n2] = x[i].n1;
+		}
+	}
+	g << s << "\n";
+	for (int i = 1; i <= n; i++)
+	{
+		g << t[i] << " ";
+	}
+	return 0;
+}

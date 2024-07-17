@@ -1,0 +1,92 @@
+#include <iostream>
+#include <fstream>
+#include <algorithm>
+#include <queue>
+#include <cstring>
+#include <vector>
+#include <climits>
+#include <bitset>
+#include <cmath>
+#include <climits>
+#include <stack>
+
+using namespace std;
+
+ifstream f("kruskal.in");
+ofstream g("kruskal.out");
+
+struct muchie
+{
+    int m1, m2, cost;
+}x[1000], afis[1000];
+
+int t[1000], rang[10000];
+
+bool criteriu(muchie a, muchie b)
+{
+    return a.cost < b.cost;
+}
+
+int multime(int nr)
+{
+    if (t[nr] != nr)
+    {
+        return multime(t[nr]);
+    }
+    return t[nr];
+}
+
+void unire(int t1, int t2)
+{
+    if (rang[t1] > rang[t2])
+    {
+        t[t1] = t2;
+    }
+    else
+    {
+        if (rang[t2] > rang[t1])
+        {
+            t[t2] = t1;
+        }
+        else
+        {
+            if (rang[t1] == rang[t2])
+            {
+                rang[t1]++;
+                t[t1] = t2;
+            }
+        }
+    }
+}
+
+int main()
+{
+    int n, m, s = 0, j, tatal1, tatal2, z = 0;
+    f >> n >> m;
+    for (int i = 1; i <= m; i++)
+    {
+        f >> x[i].m1 >> x[i].m2 >> x[i].cost;
+    }
+    sort(x + 1, x + m + 1, criteriu);
+    for (int i = 1; i <= n; i++)
+    {
+        t[i] = i;
+    }
+    for (int i = 1; i <= m; i++)
+    {
+        tatal1 = multime(x[i].m1);
+        tatal2 = multime(x[i].m2);
+        if (tatal1 != tatal2)
+        {
+            unire(tatal1, tatal2);
+            s = s + x[i].cost;
+            z++;
+            afis[z].m1 = x[i].m1;
+            afis[z].m2 = x[i].m2;
+        }
+    }
+    g << s << "\n";
+    for (int i = 1; i <= z; i++)
+        g << afis[i].m1 << " " << afis[i].m2 << "\n";
+    return 0;
+}
