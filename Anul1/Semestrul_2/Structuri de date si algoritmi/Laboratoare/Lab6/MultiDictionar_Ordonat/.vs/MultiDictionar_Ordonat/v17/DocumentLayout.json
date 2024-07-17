@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\testul_meu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\testul_meu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\testul_meu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\testul_meu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\MDO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\MDO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\IteratorMDO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\IteratorMDO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\MDO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\MDO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\IteratorMDO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\IteratorMDO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\TestScurt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\TestScurt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\TestScurt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\TestScurt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\TestExtins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D193C9EF-A90C-4F63-9ECD-DA625B034A48}|MultiDictionar_Ordonat\\MultiDictionar_Ordonat.vcxproj|solutionrelative:MultiDictionar_Ordonat\\TestExtins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\App.cpp",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\App.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\App.cpp",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\App.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T14:09:19.993Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MDO.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\MDO.h",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\MDO.h",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\MDO.h",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\MDO.h",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T14:09:41.092Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MDO.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\MDO.cpp",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\MDO.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\MDO.cpp",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\MDO.cpp",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAkwMoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T14:10:10.864Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IteratorMDO.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\IteratorMDO.h",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\IteratorMDO.h",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\IteratorMDO.h",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\IteratorMDO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T14:10:14.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IteratorMDO.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\IteratorMDO.cpp",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\IteratorMDO.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\IteratorMDO.cpp",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\IteratorMDO.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwCgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T14:10:18.746Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestScurt.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\TestScurt.cpp",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\TestScurt.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\TestScurt.cpp",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\TestScurt.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T14:10:23.149Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestScurt.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\TestScurt.h",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\TestScurt.h",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\TestScurt.h",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\TestScurt.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T05:15:38.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testul_meu.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\testul_meu.cpp",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\testul_meu.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\testul_meu.cpp",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\testul_meu.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T05:14:57.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testul_meu.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\testul_meu.h",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\testul_meu.h",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\testul_meu.h",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\testul_meu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T05:15:11.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestExtins.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\TestExtins.cpp",
+              "RelativeDocumentMoniker": "MultiDictionar_Ordonat\\TestExtins.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Semestrul 2\\Structuri de date si algoritmi\\Laboratoare\\Lab6\\MultiDictionar_Ordonat\\MultiDictionar_Ordonat\\TestExtins.cpp",
+              "RelativeToolTip": "MultiDictionar_Ordonat\\TestExtins.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T14:12:34.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

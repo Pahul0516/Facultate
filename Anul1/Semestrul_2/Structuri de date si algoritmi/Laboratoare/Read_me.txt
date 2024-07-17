@@ -1,0 +1,1 @@
+Laboratorul 2 si 5 nu exista pentru ca asa a decis doamna Czibula Gabriela.

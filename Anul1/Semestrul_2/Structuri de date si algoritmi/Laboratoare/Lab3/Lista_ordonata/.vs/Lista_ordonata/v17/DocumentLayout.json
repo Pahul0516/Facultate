@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\LO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|solutionrelative:Lista_ordonata\\LO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|solutionrelative:Lista_ordonata\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|solutionrelative:Lista_ordonata\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\LO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|solutionrelative:Lista_ordonata\\LO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\Iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|solutionrelative:Lista_ordonata\\Iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\TestScurt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|solutionrelative:Lista_ordonata\\TestScurt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\Testul_meu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|solutionrelative:Lista_ordonata\\Testul_meu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\TestExtins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{083B2ADC-F0AD-4935-907F-8174BEFA0D22}|Lista_ordonata\\Lista_ordonata.vcxproj|solutionrelative:Lista_ordonata\\TestExtins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\App.cpp",
+              "RelativeDocumentMoniker": "Lista_ordonata\\App.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\App.cpp",
+              "RelativeToolTip": "Lista_ordonata\\App.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T19:43:13.14Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LO.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\LO.h",
+              "RelativeDocumentMoniker": "Lista_ordonata\\LO.h",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\LO.h",
+              "RelativeToolTip": "Lista_ordonata\\LO.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-10T19:43:35.446Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LO.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\LO.cpp",
+              "RelativeDocumentMoniker": "Lista_ordonata\\LO.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\LO.cpp",
+              "RelativeToolTip": "Lista_ordonata\\LO.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAawCkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T19:43:16.939Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Iterator.h",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\Iterator.h",
+              "RelativeDocumentMoniker": "Lista_ordonata\\Iterator.h",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\Iterator.h",
+              "RelativeToolTip": "Lista_ordonata\\Iterator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-10T19:43:31.57Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iterator.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\Iterator.cpp",
+              "RelativeDocumentMoniker": "Lista_ordonata\\Iterator.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\Iterator.cpp",
+              "RelativeToolTip": "Lista_ordonata\\Iterator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwCEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T19:43:21.87Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Testul_meu.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\Testul_meu.cpp",
+              "RelativeDocumentMoniker": "Lista_ordonata\\Testul_meu.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\Testul_meu.cpp",
+              "RelativeToolTip": "Lista_ordonata\\Testul_meu.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T05:23:47.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestScurt.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\TestScurt.cpp",
+              "RelativeDocumentMoniker": "Lista_ordonata\\TestScurt.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\TestScurt.cpp",
+              "RelativeToolTip": "Lista_ordonata\\TestScurt.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T19:57:53.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestExtins.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\TestExtins.cpp",
+              "RelativeDocumentMoniker": "Lista_ordonata\\TestExtins.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab3\\Lista_ordonata\\Lista_ordonata\\TestExtins.cpp",
+              "RelativeToolTip": "Lista_ordonata\\TestExtins.cpp",
+              "ViewState": "AQIAACwBAAAAAAAAAADgvzoBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T15:51:11.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

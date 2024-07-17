@@ -1,0 +1,11 @@
+﻿  App.cpp
+  IteratorMDO.cpp
+  MDO.cpp
+C:\Users\Paul0516\OneDrive - Universitatea Babeş-Bolyai\Desktop\Semestrul 2\Structuri de date si algoritmi\Laboratoare\Lab6\MultiDictionar_Ordonat\MultiDictionar_Ordonat\IteratorMDO.cpp(48,14): warning C4312: '<function-style-cast>': conversion from 'TCheie' to 'Relatie' of greater size
+  TestExtins.cpp
+C:\Users\Paul0516\OneDrive - Universitatea Babeş-Bolyai\Desktop\Semestrul 2\Structuri de date si algoritmi\Laboratoare\Lab6\MultiDictionar_Ordonat\MultiDictionar_Ordonat\TestExtins.cpp(118,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Paul0516\OneDrive - Universitatea Babeş-Bolyai\Desktop\Semestrul 2\Structuri de date si algoritmi\Laboratoare\Lab6\MultiDictionar_Ordonat\MultiDictionar_Ordonat\TestExtins.cpp(136,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestScurt.cpp
+  testul_meu.cpp
+  Generating Code...
+  MultiDictionar_Ordonat.vcxproj -> C:\Users\Paul0516\OneDrive - Universitatea Babeş-Bolyai\Desktop\Semestrul 2\Structuri de date si algoritmi\Laboratoare\Lab6\MultiDictionar_Ordonat\x64\Debug\MultiDictionar_Ordonat.exe

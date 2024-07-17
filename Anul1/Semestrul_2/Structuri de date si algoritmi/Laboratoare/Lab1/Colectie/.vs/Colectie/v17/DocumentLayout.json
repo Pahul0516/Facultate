@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab1\\Colectie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94A86-B9EB-4277-9216-7D6ABB2D32A0}|Colectie\\Colectie.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab1\\Colectie\\Colectie\\Colectie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FC94A86-B9EB-4277-9216-7D6ABB2D32A0}|Colectie\\Colectie.vcxproj|solutionrelative:Colectie\\Colectie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC94A86-B9EB-4277-9216-7D6ABB2D32A0}|Colectie\\Colectie.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab1\\Colectie\\Colectie\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FC94A86-B9EB-4277-9216-7D6ABB2D32A0}|Colectie\\Colectie.vcxproj|solutionrelative:Colectie\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Colectie.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab1\\Colectie\\Colectie\\Colectie.cpp",
+              "RelativeDocumentMoniker": "Colectie\\Colectie.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab1\\Colectie\\Colectie\\Colectie.cpp",
+              "RelativeToolTip": "Colectie\\Colectie.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T08:26:18.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab1\\Colectie\\Colectie\\App.cpp",
+              "RelativeDocumentMoniker": "Colectie\\App.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Structuri de date si algoritmi\\Lab-uri\\Lab1\\Colectie\\Colectie\\App.cpp",
+              "RelativeToolTip": "Colectie\\App.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T17:53:23.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
