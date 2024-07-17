@@ -1,0 +1,7 @@
+1 Fotbal Pe_teren Sport 90
+2 Tenis Pe_camp Sport 30
+3 Inot In_bazin Sport 70
+4 Volei Pe_teren Sport 40
+5 Cantec Sala_polivalenta Divertisment 120
+6 Stand_up Club Divertisment 100
+7 Nunta Sala_de_nunti Fericire 400
