@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|solutionrelative:Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\printare.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|solutionrelative:Lab2Algoritmica_grafelor\\printare.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\graf.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|solutionrelative:Lab2Algoritmica_grafelor\\graf.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\labirint_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|solutionrelative:Lab2Algoritmica_grafelor\\labirint_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\labirint_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|solutionrelative:Lab2Algoritmica_grafelor\\labirint_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\labirint_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{241EE1CC-B548-412A-A15E-C4A5F586C959}|Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.vcxproj|solutionrelative:Lab2Algoritmica_grafelor\\labirint_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "printare.txt",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\printare.txt",
+              "RelativeDocumentMoniker": "Lab2Algoritmica_grafelor\\printare.txt",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\printare.txt",
+              "RelativeToolTip": "Lab2Algoritmica_grafelor\\printare.txt",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-20T18:08:05.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "labirint_3.txt",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\labirint_3.txt",
+              "RelativeDocumentMoniker": "Lab2Algoritmica_grafelor\\labirint_3.txt",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\labirint_3.txt",
+              "RelativeToolTip": "Lab2Algoritmica_grafelor\\labirint_3.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-30T12:46:09.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "labirint_2.txt",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\labirint_2.txt",
+              "RelativeDocumentMoniker": "Lab2Algoritmica_grafelor\\labirint_2.txt",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\labirint_2.txt",
+              "RelativeToolTip": "Lab2Algoritmica_grafelor\\labirint_2.txt",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwDIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-30T10:00:37.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "labirint_1.txt",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\labirint_1.txt",
+              "RelativeDocumentMoniker": "Lab2Algoritmica_grafelor\\labirint_1.txt",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\labirint_1.txt",
+              "RelativeToolTip": "Lab2Algoritmica_grafelor\\labirint_1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-20T09:31:25.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "graf.txt",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\graf.txt",
+              "RelativeDocumentMoniker": "Lab2Algoritmica_grafelor\\graf.txt",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\graf.txt",
+              "RelativeToolTip": "Lab2Algoritmica_grafelor\\graf.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-20T08:17:44.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab2Algoritmica_grafelor.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.cpp",
+              "RelativeDocumentMoniker": "Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\source\\repos\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.cpp",
+              "RelativeToolTip": "Lab2Algoritmica_grafelor\\Lab2Algoritmica_grafelor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T08:15:53.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

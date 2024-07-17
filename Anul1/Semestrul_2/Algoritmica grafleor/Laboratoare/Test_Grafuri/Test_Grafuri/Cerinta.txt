@@ -1,0 +1,57 @@
+Test 1 – Algoritmica Grafurilor, miercuri s2, ora 12.00 
+
+Fiecare student va alege DOAR o singura problema (5 sau 10) 
+
+ 
+
+Problema nota 5 – timp de lucru 30 minute 
+
+Se da un graf neorientat neponderat cu maxim 10 varfuri reprezentat prin matricea de adiacenta. 
+
+Sa se realizeze conversia de la matricea de adiacenta la matricea de incidenta. Sa se afiseze aceasta matrice. 
+
+Dupa expirarea timpului de 30 de minute aveti 5 minute pentru a face submit solutiei – fis cpp in Assignment_Nota_5. Dupa submit, problema trebuie prezentata cadrului didactic de lab. 
+
+ 
+
+SAU 
+
+ 
+
+Problema nota 10 – timp de lucru 60 de minute 
+
+Se da un graf neorientat neponderat. Sa se determine daca acest graf este aciclic. Hint: determinati daca, dupa o parcurgere in adancime raman muchii din graf prin care nu ati trecut. Raspunsul va fi de forma „DA” (graful este aciclic), respectiv „NU” (graful are cel putin un ciclu). Date de intrare: 
+
+n m # prima linie contine numarul de noduri si numarul de muchii 
+
+x1 y1 
+
+x2 y2 
+
+... 
+
+xn yn # exista o muchie intre „x” si „y” 
+
+Exemplu „input.txt”: 
+
+7 7 
+
+1 2 
+
+2 3 
+
+3 4 
+
+4 1 
+
+1 5 
+
+5 6 
+
+5 7 
+
+Output: „NU” 
+
+Dupa expirarea timpului de 60 de minute aveti 5 minute pentru a face submit solutiei – fis cpp in Assignment_Nota_10. Dupa submit, problema trebuie prezentata cadrului didactic de lab. 
+
+Shape 

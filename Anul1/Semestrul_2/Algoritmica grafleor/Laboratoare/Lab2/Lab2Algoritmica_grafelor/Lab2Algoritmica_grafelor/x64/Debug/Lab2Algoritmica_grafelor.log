@@ -1,0 +1,5 @@
+﻿  Lab2Algoritmica_grafelor.cpp
+C:\Users\Paul0516\source\repos\Lab2Algoritmica_grafelor\Lab2Algoritmica_grafelor\Lab2Algoritmica_grafelor.cpp(147,14): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Paul0516\source\repos\Lab2Algoritmica_grafelor\Lab2Algoritmica_grafelor\Lab2Algoritmica_grafelor.cpp(236,21): warning C4101: 'i': unreferenced local variable
+C:\Users\Paul0516\source\repos\Lab2Algoritmica_grafelor\Lab2Algoritmica_grafelor\Lab2Algoritmica_grafelor.cpp(300,21): warning C4101: 'i': unreferenced local variable
+  Lab2Algoritmica_grafelor.vcxproj -> C:\Users\Paul0516\source\repos\Lab2Algoritmica_grafelor\x64\Debug\Lab2Algoritmica_grafelor.exe

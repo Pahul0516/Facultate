@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B99ECAFF-EA2E-4D09-A2DD-2AD0F0C6B665}|Test_Grafuri\\Test_Grafuri.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\Test_Grafuri\\Test_Grafuri.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B99ECAFF-EA2E-4D09-A2DD-2AD0F0C6B665}|Test_Grafuri\\Test_Grafuri.vcxproj|solutionrelative:Test_Grafuri\\Test_Grafuri.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99ECAFF-EA2E-4D09-A2DD-2AD0F0C6B665}|Test_Grafuri\\Test_Grafuri.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\Test_Grafuri\\graf.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B99ECAFF-EA2E-4D09-A2DD-2AD0F0C6B665}|Test_Grafuri\\Test_Grafuri.vcxproj|solutionrelative:Test_Grafuri\\graf.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99ECAFF-EA2E-4D09-A2DD-2AD0F0C6B665}|Test_Grafuri\\Test_Grafuri.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\Test_Grafuri\\Cerinta.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B99ECAFF-EA2E-4D09-A2DD-2AD0F0C6B665}|Test_Grafuri\\Test_Grafuri.vcxproj|solutionrelative:Test_Grafuri\\Cerinta.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "graf.txt",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\Test_Grafuri\\graf.txt",
+              "RelativeDocumentMoniker": "Test_Grafuri\\graf.txt",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\Test_Grafuri\\graf.txt",
+              "RelativeToolTip": "Test_Grafuri\\graf.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-17T09:30:02.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cerinta.txt",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\Test_Grafuri\\Cerinta.txt",
+              "RelativeDocumentMoniker": "Test_Grafuri\\Cerinta.txt",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\Test_Grafuri\\Cerinta.txt",
+              "RelativeToolTip": "Test_Grafuri\\Cerinta.txt",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-17T09:21:25.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test_Grafuri.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\Test_Grafuri\\Test_Grafuri.cpp",
+              "RelativeDocumentMoniker": "Test_Grafuri\\Test_Grafuri.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Test_Grafuri\\Test_Grafuri\\Test_Grafuri.cpp",
+              "RelativeToolTip": "Test_Grafuri\\Test_Grafuri.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T09:20:35.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

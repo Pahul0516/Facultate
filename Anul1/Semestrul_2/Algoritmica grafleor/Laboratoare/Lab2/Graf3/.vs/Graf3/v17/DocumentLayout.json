@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Graf3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D99C3B-F13F-4241-8595-9CCA6863B062}|Graf3\\Graf3.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Graf3\\Graf3\\Graf3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76D99C3B-F13F-4241-8595-9CCA6863B062}|Graf3\\Graf3.vcxproj|solutionrelative:Graf3\\Graf3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D99C3B-F13F-4241-8595-9CCA6863B062}|Graf3\\Graf3.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Graf3\\Graf3\\graf.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76D99C3B-F13F-4241-8595-9CCA6863B062}|Graf3\\Graf3.vcxproj|solutionrelative:Graf3\\graf.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "graf.txt",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Graf3\\Graf3\\graf.txt",
+              "RelativeDocumentMoniker": "Graf3\\graf.txt",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Graf3\\Graf3\\graf.txt",
+              "RelativeToolTip": "Graf3\\graf.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-03T07:45:05.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graf3.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Graf3\\Graf3\\Graf3.cpp",
+              "RelativeDocumentMoniker": "Graf3\\Graf3.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Graf3\\Graf3\\Graf3.cpp",
+              "RelativeToolTip": "Graf3\\Graf3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T07:30:02.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

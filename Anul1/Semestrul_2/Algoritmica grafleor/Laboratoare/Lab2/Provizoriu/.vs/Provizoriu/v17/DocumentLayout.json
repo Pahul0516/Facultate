@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Provizoriu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B64F04E-D41D-4DAF-B6B5-A166E2FDB602}|Provizoriu\\Provizoriu.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Provizoriu\\Provizoriu\\Provizoriu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B64F04E-D41D-4DAF-B6B5-A166E2FDB602}|Provizoriu\\Provizoriu.vcxproj|solutionrelative:Provizoriu\\Provizoriu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B64F04E-D41D-4DAF-B6B5-A166E2FDB602}|Provizoriu\\Provizoriu.vcxproj|C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Provizoriu\\Provizoriu\\graf.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B64F04E-D41D-4DAF-B6B5-A166E2FDB602}|Provizoriu\\Provizoriu.vcxproj|solutionrelative:Provizoriu\\graf.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "graf.txt",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Provizoriu\\Provizoriu\\graf.txt",
+              "RelativeDocumentMoniker": "Provizoriu\\graf.txt",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Provizoriu\\Provizoriu\\graf.txt",
+              "RelativeToolTip": "Provizoriu\\graf.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-03T08:15:14.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Provizoriu.cpp",
+              "DocumentMoniker": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Provizoriu\\Provizoriu\\Provizoriu.cpp",
+              "RelativeDocumentMoniker": "Provizoriu\\Provizoriu.cpp",
+              "ToolTip": "C:\\Users\\Paul0516\\OneDrive - Universitatea Babe\u015F-Bolyai\\Desktop\\Algoritmica grafleor\\Lab2\\Provizoriu\\Provizoriu\\Provizoriu.cpp",
+              "RelativeToolTip": "Provizoriu\\Provizoriu.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T08:11:38.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
