@@ -1,0 +1,4 @@
+
+Write a C program that creates a linear hierarchy of n processes (a parent process creates a child process, which in turn creates a child process, and so on).
+
+Scrieti un program C care creeaza o ierarhie liniara de n procese (procesul parinte creeaza un proces fiu, care la randul lui creeaza un proces fiu, samd.)

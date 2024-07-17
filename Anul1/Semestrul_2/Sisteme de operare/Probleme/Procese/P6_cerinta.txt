@@ -1,0 +1,4 @@
+--pipe
+
+
+Scrieti un program C care creeaza 2 procese. Unul dintre procese citeste un numar, iar celalalt il afiseaza.

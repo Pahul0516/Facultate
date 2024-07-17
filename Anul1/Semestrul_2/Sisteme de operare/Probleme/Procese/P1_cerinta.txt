@@ -1,0 +1,3 @@
+--problema cu semnale
+
+Sa se scrie un program C care creaza 2 procese in care procesul parinte ii spune procesului copil cate secunde are dreptul sa numere.

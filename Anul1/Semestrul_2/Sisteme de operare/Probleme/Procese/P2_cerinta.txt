@@ -1,0 +1,3 @@
+--problema cu semnale
+
+Sa se scrie un program C care creaza 2 procese. In procesul parinte se pune o intrebare de inmultire iar daca dupa 5 secunde utilizatorul nu raspunde la intrebare atunci procesul copil trimite un semnal catre parinte care va afisa un hint.

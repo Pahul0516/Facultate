@@ -1,0 +1,3 @@
+--pipe
+
+Sa se scrie un program C care creaza 2 procese unde primul proces aduna prima jumatate a unui vector iar celalalt proces aduna cea de-a doua jumatate.

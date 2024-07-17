@@ -1,0 +1,4 @@
+fork/exec
+--------------------------------------------------------------------------------------------------
+Scrieți un program C care execută o comandă Bash și afișează rezultatul execuției pe ecran.
+Exemplu: ls -l

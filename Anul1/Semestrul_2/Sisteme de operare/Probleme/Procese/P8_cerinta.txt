@@ -1,0 +1,4 @@
+fork/dup/exec
+--------------------------------------------------------------------------------------------------
+Scrieți un program C care execută o comandă Bash și scrie rezultatul execuției într-un fișier.
+Exemplu: ls -l >lista_fisiere

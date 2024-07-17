@@ -1,0 +1,8 @@
+
+Enunțurile sunt preluate de la acestă adresă:
+
+https://www.cs.ubbcluj.ro/~horea.muresan/os/problems-c
+
+27. Scrieți un program C care primește două numere, N și M, ca argumente în linia de comandă. Programul creează N thread-uri "generator" care generează litere mici ale alfabetului aleator și le adaugă unui șir de caractere cu 128 de poziții. Programul mai creează un thread "printer" care așteaptă ca toate pozițiile șirului de caractere să fie ocupate, moment în care afișeaza șirul și apoi setează toate pozițiile șirului la NULL. Cele N thread-uri "generator" vor genera M astfel de șiruri, iar thread-ul "printer" va afișa fiecare șir imediat ce ajunge la lungimea 128.
+
+31. Scrieți un program C care primește un număr N ca argument în linia de comandă. Programul creează N thread-uri care vor genera numere aleatoare între 0 și 111111 (inclusiv) până când un thread va genera un număr divizibil cu 1001. Thread-urile vor afișa numerele generate, iar ultimul număr afișat trebuie sa fie cel divizibil cu 1001. Niciun thread nu va începe să genereze numere până când toate celelalte thread-uri au fost create. Nu se vor folosi variabile globale.
