@@ -1,0 +1,6 @@
+﻿  Bellmanford.cpp
+  Dijkstra20.cpp
+C:\Users\Paul0516\OneDrive - Universitatea Babeş-Bolyai\Desktop\Grafuri\Algoritmi_grafuri\Algoritmi_grafuri\Bellmanford.cpp(26,5): error C2065: 'intant': undeclared identifier
+C:\Users\Paul0516\OneDrive - Universitatea Babeş-Bolyai\Desktop\Grafuri\Algoritmi_grafuri\Algoritmi_grafuri\Dijkstra20.cpp(67,18): error C2065: 'i': undeclared identifier
+C:\Users\Paul0516\OneDrive - Universitatea Babeş-Bolyai\Desktop\Grafuri\Algoritmi_grafuri\Algoritmi_grafuri\Dijkstra20.cpp(70,26): error C2065: 'i': undeclared identifier
+  Generating Code...
