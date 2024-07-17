@@ -1,0 +1,33 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\Paul0516\OneDrive - Universitatea Babeş-Bolyai\Desktop\OOP\Lab-uri" -B "C:\Users\Paul0516\OneDrive - Universitatea Babeş-Bolyai\Desktop\OOP\Lab-uri\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+CMake Error:
+  Running
+
+   'C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/ninja/win/x64/ninja.exe' '-C' 'C:/Users/Paul0516/OneDrive - Universitatea Babeş-Bolyai/Desktop/OOP/Lab-uri/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kyhcbt' '-t' 'recompact'
+
+  failed with:
+
+   ninja: fatal: chdir to 'C:/Users/Paul0516/OneDrive - Universitatea Babes-Bolyai/Desktop/OOP/Lab-uri/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kyhcbt' - No such file or directory
+
+
+
+CMake Error:
+  Running
+
+   'C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/ninja/win/x64/ninja.exe' '-C' 'C:/Users/Paul0516/OneDrive - Universitatea Babeş-Bolyai/Desktop/OOP/Lab-uri/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kyhcbt' '-t' 'restat' 'build.ninja'
+
+  failed with:
+
+   ninja: fatal: chdir to 'C:/Users/Paul0516/OneDrive - Universitatea Babes-Bolyai/Desktop/OOP/Lab-uri/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kyhcbt' - No such file or directory
+
+
+
+CMake Error at C:/Program Files/JetBrains/CLion 2023.3.4/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile):
+  Failed to generate test project build system.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2023.3.4/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
