@@ -3,6 +3,7 @@ package Controller;
 import java.util.*;
 
 import Domain.User;
+import Domain.Validator.*;
 import Repository.File.AbstractRepositoryFile;
 import Repository.File.RepositoryUsersFile;
 
@@ -12,14 +13,13 @@ import org.jgrapht.Graph;
 
 public class Controller {
 
-
     AbstractRepositoryFile repoFile = new RepositoryUsersFile();
-    //AbstractRepositoryMemory repoMemory = new RepositoryUsersMemory();
+    Validator validator = new Validator();
 
-    public Controller() {}
+    public Controller() {
+    }
 
-    private int generatorUserId()
-    {
+    private int generatorUserId() {
         int id = 1;
         var persons = repoFile.getVertexList();
 
@@ -31,16 +31,22 @@ public class Controller {
         }
         return id;
     }
-    
-    public void add_user( String name)
-    {
+
+    public void add_user(String name) throws ValidationException {
+
+        validator.setStrategy(new NameValidator(this));
+        validator.validate(name);
+
         int id = generatorUserId();
         repoFile.create(new User(id, name));
         repoFile.write();
     }
 
-    public void delete_user(int id)
-    {
+    public void delete_user(int id) throws ValidationException {
+
+        validator.setStrategy(new IdValidator(this));
+        validator.validate(String.valueOf(id));
+
         var persons = repoFile.getVertexList();
         for (var person : persons) {
             person.getFriendship_list().remove(Integer.valueOf(id));
@@ -53,38 +59,36 @@ public class Controller {
         repoFile.write();
     }
 
-    public void add_friendship(int id1, int id2)
-    {
-        if (id1 == id2)
-            return;
-        var friendshipExists = false;
-        var persons = repoFile.getVertexList();
+    public void add_friendship(int id1, int id2) throws ValidationException {
 
+        validator.setStrategy(new IdValidator(this));
+        validator.validate(String.valueOf(id1) + ',' + String.valueOf(id2));//ma asigur ca exista 2 utilizatori cu id-ul dat
+        validator.setStrategy(new ExistFriendshipValidator(this));
+        validator.validate(String.valueOf(id1) + ',' + String.valueOf(id2));//ma asigur ca nu exista deja o prietenie intre ei
+
+        var persons = repoFile.getVertexList();
         for (var person : persons) {
-            if (person.getId() == id1 && person.getFriendship_list().contains(id2)) {
-                friendshipExists = true;
-                break;
+            if (person.getId() == id1) {
+                person.getFriendship_list().add(id2);
+                repoFile.update(person, person);
             }
         }
-
-        if (!friendshipExists) {
-            for (var person : persons) {
-                if (person.getId() == id1) {
-                    person.getFriendship_list().add(id2);
-                    repoFile.update(person, person);
-                }
-            }
-            for (var person : persons) {
-                if (person.getId() == id2) {
-                    person.getFriendship_list().add(id1);
-                }
+        for (var person : persons) {
+            if (person.getId() == id2) {
+                person.getFriendship_list().add(id1);
             }
         }
         repoFile.write();
     }
 
-    public void delete_friendship(int id1, int id2)
-    {
+    public void delete_friendship(int id1, int id2) throws ValidationException {
+
+        validator.setStrategy(new IdValidator(this));
+        validator.validate(String.valueOf(id1) + ',' + String.valueOf(id2));//ma asigur ca exista 2 utilizatori cu id-ul dat
+        validator.setStrategy(new NotExistFriendshipValidator(this));
+        validator.validate(String.valueOf(id1) + ',' + String.valueOf(id2));//ma asigur ca nu exista deja o prietenie intre ei
+
+
         var persons = repoFile.getVertexList();
         for (var person : persons) {
             if (person.getId() == id1) {
@@ -95,14 +99,12 @@ public class Controller {
         for (var person : persons) {
             if (person.getId() == id2) {
                 person.getFriendship_list().remove(Integer.valueOf(id1));
-
             }
         }
         repoFile.write();
     }
-    
-    public int numbers_of_comunities()
-    {
+
+    public int numbers_of_communities() {
         Graph<User, DefaultEdge> graph = repoFile.getGraph();
         ConnectivityInspector<User, DefaultEdge> connectivityInspector = new ConnectivityInspector<>(graph);
         return connectivityInspector.connectedSets().size();
@@ -118,7 +120,7 @@ public class Controller {
         for (Set<User> community : connectivityInspector.connectedSets()) {
 
             Set<User> visited = new HashSet<>();
-            int longestPathInCommunity = dfs(graph, community.iterator().next(),visited); // determin lungime drumului componenteo conexe
+            int longestPathInCommunity = dfs(graph, community.iterator().next(), visited); // determin lungime drumului componenteo conexe
 
             if (longestPathInCommunity > maxPathLength) { // actualizez convnabil cea mai lung drum a comunitatii
                 maxPathLength = longestPathInCommunity;
@@ -146,14 +148,12 @@ public class Controller {
         visited.remove(current);
         return maxLength;
     }
-    
-    public void read()
-    {
+
+    public void read() {
         repoFile.read();
     }
 
-    public List<User> getUsers()
-    {
+    public List<User> getUsers() {
         return new ArrayList<>(repoFile.getVertexList());
     }
 
@@ -166,5 +166,4 @@ public class Controller {
         }
         return false;
     }
-
 }

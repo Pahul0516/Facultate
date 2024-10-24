@@ -8,10 +8,10 @@ public class Validator {
         this.strategy = strategy;
     }
 
-    public boolean validate(String input) {
+    public void validate(String input) throws ValidationException {
         if (strategy == null) {
-            throw new IllegalStateException("Validation strategy not set");
+            throw new IllegalStateException("Nu ai setat un timp de validare");
         }
-        return strategy.validate(input);
+        strategy.validate(input);
     }
 }

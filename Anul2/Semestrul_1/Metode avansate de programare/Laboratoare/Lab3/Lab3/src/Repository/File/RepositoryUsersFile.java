@@ -2,8 +2,6 @@ package Repository.File;
 
 import Domain.User;
 
-import java.util.List;
-
 public class RepositoryUsersFile extends AbstractRepositoryFile {
 
     @Override

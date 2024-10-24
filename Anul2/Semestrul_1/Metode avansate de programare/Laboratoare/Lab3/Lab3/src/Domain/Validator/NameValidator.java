@@ -10,11 +10,13 @@ public class NameValidator implements ValidatorStrategy{
     }
 
     @Override
-    public boolean validate(String data) {
+    public void validate(String data) throws ValidationException {
         if (data == null || data.trim().isEmpty()) {
-            return false;
+            throw new ValidationException("Trebuie sa existe un nume");
         }
         String regex = "^[\\p{L} .'-]+$";
-        return data.matches(regex);
+        if (!data.matches(regex)) {
+            throw new ValidationException("Numele nu e bun");
+        }
     }
 }

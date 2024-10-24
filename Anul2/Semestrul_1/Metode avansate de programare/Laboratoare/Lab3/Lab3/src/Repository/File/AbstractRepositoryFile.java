@@ -32,7 +32,6 @@ public abstract class AbstractRepositoryFile extends AbstractRepository {
                         }
                     }
                     user.setFriendship_list(list);
-//
                     friendshipGraph.addVertex(user);
                 }
             }
