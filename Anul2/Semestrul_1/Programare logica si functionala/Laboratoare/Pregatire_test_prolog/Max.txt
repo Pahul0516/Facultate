@@ -1,0 +1,40 @@
+elem_max([],Max,Max).
+
+elem_max([H|T],Cur_max,Max):-
+    H > Cur_max,
+    elem_max(T,H,Max).
+
+elem_max([H|T],Cur_max,Max):-
+    H =< Cur_max,
+    elem_max(T,Cur_max,Max).
+
+find_max(L,Max):-
+    elem_max(L,-1,Max).
+
+poz_max([],_,_,[]).
+
+poz_max([H|T],Max,Poz,[Poz1|Rez]):-
+    Max is H,
+    Poz1 is Poz + 1,
+    poz_max(T,Max,Poz1,Rez),
+    !.
+
+poz_max([_|T],Max,Poz, Rez):-
+    Poz1 is Poz + 1,
+    poz_max(T,Max,Poz1,Rez),
+    !.
+
+
+poz(L,Rez):-
+    find_max(L,Max),
+    poz_max(L,Max,0,Rez).
+
+modificare([],[]).
+
+modificare([H|T],[Poz|Rez]):-
+    is_list(H),
+    poz(H,Poz),
+    modificare(T,Rez).
+
+modificare([H|T],[H|Rez]):-
+    modificare(T,Rez).

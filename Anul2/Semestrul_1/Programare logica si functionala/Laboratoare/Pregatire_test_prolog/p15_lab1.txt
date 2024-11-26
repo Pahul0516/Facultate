@@ -1,0 +1,44 @@
+lungime([],0).
+lungime([_|T],Rez):-
+    lungime(T,Rez1),
+    Rez is Rez1 + 1.
+
+
+par(L):-
+    lungime(L,Lun),
+    0 is Lun mod 2.
+
+elem_min([],Cur_elem,Cur_elem).
+
+elem_min([H|T],Cur_elem,Min):-
+    H < Cur_elem,
+    elem_min(T,H,Min).
+
+elem_min([H|T],Cur_elem,Min):-
+    H >= Cur_elem,
+    elem_min(T,Cur_elem,Min).
+
+
+
+find_min(L,Min):-
+    elem_min(L,99999,Min).
+
+
+sterge([],_,[_|_],[]).
+
+sterge([H|T],0,Copy,[H|Rez]):-
+    find_min(Copy,Min),
+    H \= Min,
+    sterge(T,0,[H|T],Rez).
+
+sterge([H|T],0,Copy,Rez):-
+    find_min(Copy,Min),
+    H = Min,
+    sterge(T,1,[H|T],Rez).
+
+sterge([H|T],1,_,[H|Rez]):-
+    sterge(T,1,[H|T],Rez).
+
+
+helper(L,Rez):-
+    sterge(L,0,L,Rez).

@@ -1,0 +1,24 @@
+cautare(E,[H|_]):-
+    E = H.
+cautare(E,[_|T]):-
+    cautare(E,T).
+
+intersectie([_|_],[],[]).
+intersectie([],[_|_],[]).
+intersectie([],_,[]).
+
+intersectie([H|T],L,[H|Rez]):-
+    cautare(H,L),
+    intersectie(T,L,Rez).
+
+intersectie([_|T],L,Rez):-
+    intersectie(T,L,Rez).
+
+
+construire(M,N,[N]):-
+    M = N.
+
+construire(M,N,[M|Rez]):-
+    M1 is M + 1,
+    construire(M1,N,Rez),
+    !.

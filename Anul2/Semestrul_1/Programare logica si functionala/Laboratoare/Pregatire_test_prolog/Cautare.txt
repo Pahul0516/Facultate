@@ -1,0 +1,34 @@
+% a)
+cauta(Element, [H|_]):-
+    Element = H.
+
+cauta(Element, [_|Tail]) :-
+    cauta(Element, Tail).
+
+
+diferenta([],[_|_],[]).
+
+diferenta(L1,[],L1).
+
+diferenta([H1|T1],L2,Rez):-
+    cauta(H1,L2),
+    diferenta(T1,L2,Rez).
+
+diferenta([H1|T1],L2,Rez):-
+    \+ cauta(H1,L2),
+    diferenta(T1,L2,Rez1),
+    Rez = [H1|Rez1].
+
+%b)
+adauga_par([],[]).
+
+adauga_par([H|T],Rez):-
+    0 is H mod 2,
+    adauga_par(T,Rez1),
+    Rez = [H,1|Rez1],
+    !.
+
+adauga_par([H|T],Rez):-
+    adauga_par(T,Rez1),
+    Rez = [H|Rez1],
+    !.

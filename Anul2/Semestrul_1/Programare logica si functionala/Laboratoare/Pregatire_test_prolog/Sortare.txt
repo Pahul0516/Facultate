@@ -1,0 +1,16 @@
+selectare_min([E],_,E).
+
+selectare_min([H1,H2|T],[H2|Rest],Min):-
+    H1=<H2,
+    selectare_min([H1|T],Rest,Min).
+
+selectare_min([H1,H2|T],[H1|Rest],Min):-
+    H1>H2,
+    selectare_min([H2|T],Rest,Min).
+
+
+sortare([],[]).
+
+sortare(L,[Min|Rez]):-
+    selectare_min(L,Rest,Min),
+    sortare(Rest,Rez).

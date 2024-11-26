@@ -1,0 +1,38 @@
+eliminare_duplicate([],[]).
+
+eliminare_duplicate([H],[H]).
+
+eliminare_duplicate([H1,H2|T],Rez):-
+    H1=H2,
+    eliminare_duplicate([H2|T],Rez).
+
+eliminare_duplicate([H1,H2|T],[H1|Rez]):-
+    H1\=H2,
+    eliminare_duplicate([H2|T],Rez).
+
+
+
+interclasare([],[],[]).
+interclasare(L1,[],L1).
+interclasare([],L2,L2).
+
+interclasare( [H1|T1],[H2|T2],[H1|Rez]):-
+    H1<H2,
+    interclasare(T1,[H2|T2],Rez).
+
+interclasare([H1|T1],[H2|T2],[H2|Rez]):-
+    H1>H2,
+    interclasare([H1|T1],T2,Rez).
+
+
+interclasare([H1|T1],[H2|T2],[H1|Rez]):-
+    H1=H2,
+    interclasare(T1,T2,Rez).
+
+
+
+
+helper_interclasare(L1,L2,Rez):-
+    eliminare_duplicate(L1,Rez1),
+    eliminare_duplicate(L2,Rez2),
+    interclasare(Rez1,Rez2,Rez).

@@ -1,0 +1,16 @@
+([H1,H2,H3|T]):-
+    H1<H2,
+    verif_cresc([H1,H2,H3|T]).
+
+verif_cresc([H1,H2|T]):-
+    H1<H2,
+    verif_cresc([H2|T]).
+
+verif_cresc([H1,H2|T]):-
+    H1>H2,
+    verif_descresc([H2|T]).
+
+verif_descresc([_]).
+verif_descresc([H1,H2|T]):-
+    H1>H2,
+    verif_descresc([H2|T]).
