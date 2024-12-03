@@ -3,8 +3,8 @@ R1 (saptamana 1)
 P1 (saptamana 3) (problema 5 - TEMA)
 P2 (saptamana 5) (problema 8 - TEMA)
 P3 (saptamana 7) (problema 12 - TEMA)
-L1 (saptamana 9)
-L2 (saptamana 11)
+L1 (saptamana 9) (problema 10 - TEMA)
+L2 (saptamana 11) (problema 3 - TEMA)
 L3 (saptamana 13)
 
 R - de la Recursivitate
