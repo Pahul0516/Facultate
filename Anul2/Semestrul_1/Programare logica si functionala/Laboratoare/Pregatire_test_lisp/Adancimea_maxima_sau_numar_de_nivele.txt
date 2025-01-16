@@ -1,0 +1,9 @@
+(defun f(a k)
+  (cond
+    ((NULL a) k)
+    (T (max 
+        (f (cadr a) (+ k 1)) 
+        (f (caddr a) (+ k 1)) 
+      ))
+  )
+)

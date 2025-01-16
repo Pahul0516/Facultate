@@ -1,0 +1,13 @@
+(defun find-path (tree x)
+  (cond
+    ((null tree) nil)
+    ((eq (car tree) x) (list x))
+    (t
+     (let ((left (find-path (cadr tree) x))
+           (right (find-path (caddr tree) x)))
+       (cond
+         (left (cons (car tree) left))
+         (right (cons (car tree) right))
+         (t nil))))
+  )
+)

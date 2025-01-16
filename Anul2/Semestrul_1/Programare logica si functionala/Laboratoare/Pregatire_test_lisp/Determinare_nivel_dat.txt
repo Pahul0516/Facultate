@@ -1,0 +1,10 @@
+(defun f(a e k)
+  (cond
+    ((NULL a) nil)
+    ((eq e (car a))k)
+    (T (or
+          (f (cadr a) e (+ 1 k)) 
+          (f (caddr a) e (+ 1 k))
+        ) )
+  )
+)

@@ -1,0 +1,6 @@
+(defun f(a)
+  (cond 
+    ((NULL a) nil)
+    (T (append  (f (cadr a)) (list(car a)) (f (caddr a)) ))
+)
+)

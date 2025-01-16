@@ -1,0 +1,7 @@
+(defun f(a k niv)
+  (cond
+    ((NULL a) nil)
+    ((eq k niv) (list (car a)))
+    (T (append (f (cadr a) (+ k 1) niv) (f (caddr a) (+ k 1) niv) ))
+  )
+)

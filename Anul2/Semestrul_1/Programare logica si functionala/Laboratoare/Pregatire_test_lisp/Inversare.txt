@@ -1,0 +1,13 @@
+(defun inversare(l)
+  (cond
+    ((NULL l) nil)
+    (T (append (inversare (cdr l)) (list (car l)) ))
+)
+)
+
+(defun inversare2(l c)
+  (cond
+    ((NULL l) c)
+    (T (inversare2 (cdr l) (cons (car l) c)))
+)
+)

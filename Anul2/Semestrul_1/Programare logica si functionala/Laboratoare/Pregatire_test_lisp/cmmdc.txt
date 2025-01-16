@@ -1,0 +1,7 @@
+(defun cmmdc(a b)
+  (cond 
+  ((equal a b) a)
+  ((> a b) (cmmdc (- a b) b) )
+  ((> b a) (cmmdc a (- b a)) )
+)
+)

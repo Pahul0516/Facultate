@@ -1,0 +1,7 @@
+(defun make_one_list(l)
+  (cond
+    ((NULL l) nil)
+    ((listp (car l)) (append (make_one_list (car l)) (make_one_list (cdr l))))
+    (T (append (list(car l)) (make_one_list (cdr l))))
+)
+)

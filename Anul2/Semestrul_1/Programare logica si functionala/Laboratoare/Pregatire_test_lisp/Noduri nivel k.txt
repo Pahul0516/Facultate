@@ -1,0 +1,10 @@
+(defun nivel(arb k depth)
+  (cond
+  ((NULL arb) nil)
+  ((equal depth k) (list(car arb)))
+  (T (append 
+      (nivel (cadr arb) k (+ 1 depth))
+      (nivel (caddr arb) k (+ 1 depth))
+    ))
+)
+)

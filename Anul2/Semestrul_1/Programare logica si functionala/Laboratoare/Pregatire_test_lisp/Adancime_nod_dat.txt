@@ -1,0 +1,10 @@
+(defun cauta(l x depth)
+  (cond 
+    ((NULL l) nil)
+    ((equal x (car l)) depth)
+    (T
+      (or (cauta (cadr l) x (+ 1 depth)) 
+          (cauta (caddr l) x (+ 1 depth)))
+    )
+)
+)

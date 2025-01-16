@@ -1,0 +1,7 @@
+(defun sterge(el l)
+  (cond
+  ((NULL l) nil)
+  ((NOT (EQUAL el (car l))) (cons (car l) (sterge el (cdr l))))
+  (T (sterge el (cdr l)))
+)
+)

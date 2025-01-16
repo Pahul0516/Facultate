@@ -1,0 +1,11 @@
+(defun inserare_aux(el l poz i)
+  (cond
+    ((NULL l) nil)
+    ((EQUAL poz i) (cons el l))
+    (T (cons (car l) (inserare_aux el (cdr l) poz (+ i 1) )))
+)
+)
+
+(defun inserare(el l poz)
+    (inserare_aux el l poz 1)
+)
