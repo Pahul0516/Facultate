@@ -1,0 +1,39 @@
+Create View ViewCafea as
+Select nume, descriere from Cafea where ID_Cafea <5
+
+CREATE View ViewInfoNume as 
+Select M.nume as Nume_Magazin, MA.nume as Nume_Manager
+from Magazin as M
+INNER JOIN Manager as MA
+on M.ID_Magazin = MA.ID_Manager
+where M.ID_Magazin<5
+
+Create View ViewNumarCafeleDiferite as
+Select C.nume As Nume_Cafea, M.nume as Nume_Magazin, count(C.ID_Cafea) as Numar
+from Magazin as M 
+inner join Cafea As c on C.ID_Magazin = M.ID_Magazin
+Group by C.nume, M.nume
+
+
+EXEC insertIntoTables 'Manager';
+EXEC insertIntoTables 'Espresor';
+EXEC insertIntoTables 'Note_Client_Angajat';
+
+select * from tables
+
+EXEC insertIntoViews 3;
+
+select * from Views
+
+DECLARE @nrTables INT,@nrViews INT;
+SELECT @nrTables = MAX(TableId) FROM Tables
+SELECT @nrViews = MAX(ViewId) FROM Views
+
+EXEC insertIntoTests @nrTables,@nrViews;
+SELECT * FROM Tests;
+
+EXEC insertIntoTestViews;
+SELECT * FROM TestViews;
+
+EXEC insertIntoTestTables;
+SELECT * FROM TestTables;
