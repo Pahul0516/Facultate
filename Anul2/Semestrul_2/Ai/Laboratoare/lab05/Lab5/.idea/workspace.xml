@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0bed2aa-df3f-4dba-ad07-a2ec5706a1c6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Lab5\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2v3F9I9k5KVKxPIOJBZeVtZbE5c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/berin/PycharmProjects/Lab6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\berin\PycharmProjects\Lab5" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0bed2aa-df3f-4dba-ad07-a2ec5706a1c6" name="Changes" comment="" />
+      <created>1743365699095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743365699095</updated>
+      <workItem from="1743365700230" duration="8042000" />
+      <workItem from="1743418068181" duration="14144000" />
+      <workItem from="1743505043692" duration="1485000" />
+      <workItem from="1743523795106" duration="333000" />
+      <workItem from="1743528920826" duration="3066000" />
+      <workItem from="1743540440586" duration="701000" />
+      <workItem from="1743578205410" duration="1090000" />
+      <workItem from="1743869557284" duration="669000" />
+      <workItem from="1743888867424" duration="182000" />
+      <workItem from="1743940250291" duration="1275000" />
+      <workItem from="1744042170028" duration="765000" />
+      <workItem from="1744044421286" duration="3806000" />
+      <workItem from="1744095875514" duration="2752000" />
+      <workItem from="1744110517881" duration="732000" />
+      <workItem from="1744132071740" duration="127000" />
+      <workItem from="1744132283905" duration="1269000" />
+      <workItem from="1744195627807" duration="689000" />
+      <workItem from="1744204231880" duration="4168000" />
+      <workItem from="1744215800674" duration="73000" />
+      <workItem from="1744235026694" duration="1373000" />
+      <workItem from="1744278173895" duration="1398000" />
+      <workItem from="1744283093850" duration="1019000" />
+      <workItem from="1744285460531" duration="1205000" />
+      <workItem from="1744312765574" duration="2699000" />
+      <workItem from="1744370040581" duration="2301000" />
+      <workItem from="1744387496393" duration="117000" />
+      <workItem from="1744395880129" duration="1654000" />
+      <workItem from="1744417034674" duration="1900000" />
+      <workItem from="1744534905302" duration="2414000" />
+      <workItem from="1745863082904" duration="570000" />
+      <workItem from="1745868689386" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Tema_v3">
+        <watch expression="col" language="Jupyter" />
+      </configuration>
+      <configuration name="Invatam">
+        <watch expression="val" language="Jupyter" />
+        <watch expression="step" language="Jupyter" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
